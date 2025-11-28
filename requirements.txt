@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+SQLAlchemy
+psycopg2-binary
+python-jose[cryptography]
+passlib[bcrypt]
+openai>=1.0.0
